@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 its only by doing to to otherts that one attains to one's own good
+=======
+its only by doing to others!!!!
+that one attains to one's own good
+>>>>>>> my_first_branch
